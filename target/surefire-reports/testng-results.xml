@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-21T14:58:37 ALMT" name="My Test Suite" finished-at="2023-04-21T14:58:46 ALMT" duration-ms="8994">
+    <groups>
+    </groups>
+    <test started-at="2023-04-21T14:58:37 ALMT" name="My Test" finished-at="2023-04-21T14:58:46 ALMT" duration-ms="8994">
+      <class name="Test.CrossBrowserTest">
+        <test-method signature="test(java.lang.String)[pri:0, instance:Test.CrossBrowserTest@703580bf]" started-at="2023-04-21T14:58:37 ALMT" name="test" finished-at="2023-04-21T14:58:46 ALMT" duration-ms="8946" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Test.CrossBrowserTest -->
+    </test> <!-- My Test -->
+  </suite> <!-- My Test Suite -->
+</testng-results>
